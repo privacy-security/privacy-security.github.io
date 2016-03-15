@@ -1,5 +1,5 @@
-# Privacy-Security Room #
-This repo holds the GitHub Pages site for the Privacy-Security room. You can see it here: https://privacy-security.github.io/
+# Privacy/Security Room #
+This repo holds the GitHub Pages site for the Privacy/Security room. You can see it here: https://privacy-security.github.io/
 
 ## Current Features ##
 - Click on any list item to highlight it.
